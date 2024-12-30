@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Crimes - Norte RP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+            font-size: 12px;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        @media screen and (max-width: 600px) {
+            table {
+                font-size: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Calculadora de Crimes - Norte RP</h1>
+    <table>
+        <tr>
+            <th>Artigo</th>
+            <th>Crime</th>
+            <th>Multa (€)</th>
+            <th>Pena Mínima</th>
+            <th>Pena Recomendada</th>
+            <th>Pena Máxima</th>
+        </tr>
+        <tr><td>Artigo nº 3</td><td>Condicionar a Liberdade de Trânsito</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 4</td><td>Desobediência a Ordens das Autoridades</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        < <tr><td>Artigo nº 3</td><td>Condicionar a Liberdade de Trânsito</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 4</td><td>Desobediência a Ordens das Autoridades</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 8</td><td>Realização de Obras e Utilização das Vias Públicas para Fins Especiais Não Autorizada</td><td>2,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 11</td><td>Condução Perigosa de Veículos e Animais</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 16</td><td>Não Dar Esquerda a Placas, Postes, Ilhéus e Dispositivos Semelhantes</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 13</td><td>Posição de Marcha Indevida</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 12</td><td>Início de Marcha Sem Precauções</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 14</td><td>Infração em Rotundas</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 17</td><td>Circular em Bermas e Passeios</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 18</td><td>Ausência de Distância entre Veículos</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 21</td><td>Falta de Sinalização de Manobras</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 22</td><td>Sinais Sonoros Abusivos</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 27</td><td>Limites Gerais de Velocidade (Leve)</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 26</td><td>Marcha Lenta que Cause Embaraço</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 25</td><td>Velocidade Moderada Quando Justificável</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 24</td><td>Príncipios Gerais de Velocidade Adequada à Via</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 27</td><td>Limites Gerais de Velocidade (Grave)</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 27</td><td>Limites Gerais de Velocidade (Muito Grave)</td><td>15,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 29</td><td>Dever de Cedência de Passagem</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 36</td><td>Ultrapassagem pela Direita</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 47</td><td>Marcha Atrás Proíbida</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 45</td><td>Inversão do Sentido de Marcha Proíbida</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 41</td><td>Ultrapassagens Proibídas</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 38</td><td>Realização de Manobra de Ultrapassagem Perigosa</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 49</td><td>Proibição de Paragem ou Estacionamento</td><td>1,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 59</td><td>Regras Gerais de Ausência de Iluminação</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 61</td><td>Violação das Condições de Utilização das Luzes</td><td>1,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 72</td><td>Manobras Proibidas em Autoestradas</td><td>2,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 81.6.a</td><td>Condução Sob Influência de Álcool ou de Substâncias Psicotrópicas (Grave) [0,5 - 0,8 g/l]</td><td>12,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 80</td><td>Poluição Sonora</td><td>1,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 79</td><td>Poluição do Solo e do Ar</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 73</td><td>Entrada e Saída Indevida das Autoestradas</td><td>12,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 81.6.b</td><td>Condução Sob Influência de Álcool ou de Substâncias Psicotrópicas (Muito Grave) [0,8 - 1,2 g/l]</td><td>25,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 82</td><td>Falta de Utilização de Dispositivos de Segurança</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 84</td><td>Proibição de Utilização de Certos Aparelhos</td><td>6,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 85</td><td>Ausência de Documentos de que o Condutor deve ser Portador</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 116</td><td>Ausência de Inspeções</td><td>50,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 114</td><td>Características Ilegais dos Veículos</td><td>12,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 90</td><td>Regras de Condução Motociclos</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 88</td><td>Ausência de Elementos de Pré-Sinalização de Perigo</td><td>3,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 123</td><td>Ausência de Carta de Condução</td><td>2,500</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 150</td><td>Obrigação de Seguro</td><td>25,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Exercício de Pesca sem Licença</td><td>100,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Ausência de Seguro na Embarcação</td><td>75,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Ausência do Livrete da Embarcação</td><td>60,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Ausência de Carta de Navegador</td><td>125,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Violação de Regras de Navegação</td><td>90,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 0</td><td>Abalroamento Marítima</td><td>120,000</td><td>0</td><td>0</td><td>0</td></tr>
+        <tr><td>Artigo nº 1</td><td>Homicídio</td><td>150,000</td><td>8</td><td>12</td><td>16</td></tr>
+        <tr><td>Artigo nº 2</td><td>Homicídio Qualificado</td><td>300,000</td><td>12</td><td>19</td><td>20</td></tr>
+        <tr><td>Artigo nº 3</td><td>Homicídio Priveligiado</td><td>30,000</td><td>1</td><td>3</td><td>5</td></tr>
+        <tr><td>Artigo nº 4</td><td>Ofensa à Integridade Física Simples</td><td>25,000</td><td>0</td><td>0</td><td>6</td></tr>
+        <tr><td>Artigo nº 5</td><td>Ofensa à Integridade Física Grave</td><td>50,000</td><td>2</td><td>8</td><td>10</td></tr>
+        <tr><td>Artigo nº 6</td><td>Ofensa à Integridade Física Qualificada</td><td>75,000</td><td>0</td><td>2</td><td>4</td></tr>>
+        <tr><td>Artigo nº 95</td><td>Corrupção Ativa</td><td>500,000</td><td>2</td><td>6</td><td>10</td></tr>
+    </table>
+    <footer style="text-align: center; margin-top: 20px; font-size: 12px; color: #666;">
+        © 2024 Norte RP - Todos os direitos reservados
+    </footer>
+</body>
+</html>
